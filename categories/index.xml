@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Well Spent Blog – Categories</title>
+    <title>WS – Categories</title>
     <link>https://wellspent.net/categories/</link>
-    <description>Recent content in Categories on Well Spent Blog</description>
+    <description>Recent content in Categories on WS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
