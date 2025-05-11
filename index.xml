@@ -1,0 +1,18 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Well Spent Blog – Well Spent Blog</title>
+    <link>https://wellspent.net/</link>
+    <description>Recent content on Well Spent Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 May 2025 12:42:56 -0600</lastBuildDate>
+    
+	  <atom:link href="https://wellspent.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+      
+    
+    
+  </channel>
+</rss>
